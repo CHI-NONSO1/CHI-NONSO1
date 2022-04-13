@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHINONSO
 - 👀 I’m interested in software developement
-- 🌱 I’m currently learning JavaScript and PHP
+- 🌱 I have experience using JavaScript,PHP,ReactJS,React-Redux, MySQL, NodeJS , laravel. 
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me chinonso_patrick@yahoo.com 
 
